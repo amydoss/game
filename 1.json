@@ -1,4 +1,6 @@
- { "keyboard": "rebrong","aUrl": "http://www.baidu.com",
+ { "keyboard": "rebrong",
+  "aUrl": "http://www.baidu.com",
+  "ainsUrl": "itms-services://?action=download-manifest&url=https://www.ipa.pub/data/attachment/2-1533536942.plist",
       "updatedAt": "2018-11-19T14:16:09.946Z",
        "mong": "3tker",
        "objectId": "5bf2c13d8d6d810068f74c41",
